@@ -1,0 +1,185 @@
+Prehash: "a2452f8dd51f91dd983917dd07dbfc78a3bf26aca79dd5666276b01dff6f763d"
+GMT_System_Date: "2023-07-06T04:03:15.911Z"
+Merkyl_Root: "ab124d2f692cda55d37d35c528142ac3d381fb8de5a601021d9cf82ab058cd28"
+Archival_Date: "06-07-2033"
+Transactions:
+  - Transaction_#: 1
+    Transaction_Type: "R001"
+    Asset_Id: "68672"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-03-17T06:08:10.885Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "6a05db7051369aa229073f66fb1efed27b7034963f680979dcfe6249afd61c07"
+    Public_hash: "c693dbf13b8911fed47e0c0fdc34ce1bcb9425205267c33d7c34a7389acb78a5"
+    Platform_hash: "e8cd539a9f18f87bf60cecec8203854c9c02e4f8774931078818ca84130a4801"
+  - Transaction_#: 2
+    Transaction_Type: "T003"
+    Asset_Id: "Project-01U"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-03-28T09:28:08.410Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "060f1a6786d0caa47eb981a3a3462ef5f4ef2686b5ccd985d3f4103803539627"
+    Public_hash: "0d83c50e93df308a2c3383c099b3c3b48c23f5dafabd31c0f21d53f0d2c77bd6"
+    Platform_hash: "f7a6cb48d21372fe90240490b100e93209c76ea754e70e5d5858fd150c1cb48f"
+  - Transaction_#: 3
+    Transaction_Type: "R001"
+    Asset_Id: "Project-02"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-03-28T10:17:27.768Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "c59e7e1fdfe43dfceb64bac7dbdba1dbe37be05fb59575319363611a3efd50d6"
+    Public_hash: "3f07e8ea19db09b1a370090093ed03addc14e83739dd042164f492315816958d"
+    Platform_hash: "48795483c2da3f172830d7257434d7e5f187e17b1ff40bf50356fd8180b307d6"
+  - Transaction_#: 4
+    Transaction_Type: "T001"
+    Asset_Id: "5005"
+    User_Id: 10014
+    GMT_Submitted_Date: "2023-03-29T06:10:58.147Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "02a909e822c8962086de3e98b28280089f26c314e093930808ea5d9ca1c25e0a"
+    Public_hash: "f46a4b59c3bf274a07bb8493c7607657a61a38c3bfde9aba85d216e603402af2"
+    Platform_hash: "d82c35687d6e6fbb2ea34d1555738f6f7874f21c91eff3c59b3e8554448eb7c6"
+  - Transaction_#: 5
+    Transaction_Type: "U001"
+    Asset_Id: "568889"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-03-29T11:04:44.209Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "fb83630fa75ec148cb83d5254d3bda2f2ab983ff916fb1cb6946f29f20892085"
+    Public_hash: "ffc5d462cb0d0c5171be7b7d117224c184aaeaf1b0664beb0ecb308a9ccc5854"
+    Platform_hash: "a44f4f295309af0595f8ff65e0d43a1061b26a90844ac17f94652c78e2351610"
+  - Transaction_#: 6
+    Transaction_Type: "U001"
+    Asset_Id: "568889"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-03-29T11:06:50.664Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "63da9bbf06fec676d041a780a35417159c2623c60371e329608ed7f78370de6c"
+    Public_hash: "a11f09f21caf6639ca3a5030624fb2a4deeba89b05aaf300e97ed19281420f3b"
+    Platform_hash: "69f96325e11b77b5b6d886b16980644c73d7f2026dd20f26db3fcd55d681c684"
+  - Transaction_#: 7
+    Transaction_Type: "R001"
+    Asset_Id: "099878"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-03-30T09:29:43.745Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "f98658b9a5902d04a2369e4e52468539d95d6d031938929e3ff03ce5b6faaf18"
+    Public_hash: "e3273358403ac09f00ae1b74cd3cf7a8edaf3e97809ce61660538cddd04092a0"
+    Platform_hash: "479c96a4a84449632c0cfabb41235063b383f70cd07d09d60eda2ab5cd76b901"
+  - Transaction_#: 8
+    Transaction_Type: "R001"
+    Asset_Id: "67675"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-04-12T11:04:28.261Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "cf54d2c2e8b511a769e906ea332a2b505033fbb7f6d405d1559b5491977179a5"
+    Public_hash: "6a91e0d90d0b0fa4992c1cb3ada5574d78a6eb2e108163a1940740a1f5a6d1fc"
+    Platform_hash: "64eb0282f141269373eb1ea3f197ea8fadecf2d2298afba62bda3b0c9ce8c860"
+  - Transaction_#: 9
+    Transaction_Type: "U001"
+    Asset_Id: "67675"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-04-12T12:27:04.296Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "a8ddc827f8049e7a0856d9a564a333616266405a2f609d51aa5431f19c8006ec"
+    Public_hash: "d2e9cc494facb873316c5d2acb8a48a46782614876bbdd9ea076cc738a33a13d"
+    Platform_hash: "3b0cc5dc998b58b1967279c8e591e18818d1c3d710cd0f808e69896aa99757d0"
+  - Transaction_#: 10
+    Transaction_Type: "U001"
+    Asset_Id: "Project-02"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-05-05T04:12:46.840Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "f2c26de427087b4c28c216d0aeb320fb78aac3a1bccacff6d2c67dcfaef9b38b"
+    Public_hash: "7bda1570cd3dbb0bf6dda86eb791bc6831a071779170b9bd15078bdfb455baea"
+    Platform_hash: "c534c70a29d655ea77a6754faa4f29d0db4ba10060da54fa36a7665783b306af"
+  - Transaction_#: 11
+    Transaction_Type: "U001"
+    Asset_Id: "PR-10-2023"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-05-26T06:03:51.928Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: ""
+    Public_hash: ""
+    Platform_hash: "e630b4ed1e1aa46b6380fb10c51853c308fccb477843d9e1feaef7916bc6ae4c"
+  - Transaction_#: 12
+    Transaction_Type: "U001"
+    Asset_Id: "Project-02"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-05-26T09:32:26.418Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "e62e6fb445b563b4eeeb6cadca7586baa348b4a5bfb68b881c80620682ee104a"
+    Public_hash: ""
+    Platform_hash: "6ffa33f0458afe8069d0de46f01a253ff0656d8b04964469170887bff0f7ce33"
+  - Transaction_#: 13
+    Transaction_Type: "U001"
+    Asset_Id: "67675"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-05-29T05:03:15.683Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "807936924260512254e5a433e42d115d4c32d85eac76b3c95672c6f45e50ae8c"
+    Public_hash: ""
+    Platform_hash: "9e0c9b34c815f587aadcfa85d51fb95ec79c094a66dcabdf04bbb6fa08d32713"
+  - Transaction_#: 14
+    Transaction_Type: "U001"
+    Asset_Id: "PR-10-2023"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-07-06T02:10:40.260Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: ""
+    Public_hash: ""
+    Platform_hash: "b34437c9ff9966e84e952e594caaee72d4f20c432cb17eb54f541d117ee20c08"
+  - Transaction_#: 15
+    Transaction_Type: "U001"
+    Asset_Id: "PR-10-2023"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-07-06T02:21:33.379Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: ""
+    Public_hash: "408d226d6615f6f71dfd36b1f5e9cfb39337aad438af381f46ab4c18935df65c"
+    Platform_hash: "d3c805990627ac143ad2ac874ed4846b2e10b25a4b6e2f703a6008895d9b229d"
+  - Transaction_#: 16
+    Transaction_Type: "U001"
+    Asset_Id: "PR-10-2023"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-07-06T02:23:23.006Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: ""
+    Public_hash: "b94a725cea608240380a331a83fc4e29598e142c17a1c81ded20d094b6eb0d15"
+    Platform_hash: "222b28bd60d37c7c3ce9e03c9c9298b22583747de5d20a43139329873ae31cf8"
+  - Transaction_#: 17
+    Transaction_Type: "T003"
+    Asset_Id: "Project-01U"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-07-06T02:29:16.626Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "71652c8c4a6bf26aba162c90fb11444124364cf24889ec0ab6c4c61323e05d2a"
+    Public_hash: ""
+    Platform_hash: "584eb4866609a5f71e3d6f36c0329bc4d19ef0f09abc4d56804db3384f32adbf"
+  - Transaction_#: 18
+    Transaction_Type: "T003"
+    Asset_Id: "Project-01U"
+    User_Id: 10015
+    GMT_Submitted_Date: "2023-07-06T03:13:16.544Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: ""
+    Public_hash: ""
+    Platform_hash: "46960210ed8f4d9373d33e7855508b7846aad928c61040c3bbeabd05b0b7b333"
+  - Transaction_#: 19
+    Transaction_Type: "T003"
+    Asset_Id: "345678"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-07-06T04:00:49.232Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: "af328071dd6530f753a6192245b82f64ed8070706e33cca5ad2caef3f1c10f3a"
+    Public_hash: ""
+    Platform_hash: "cba1f492678e5eb0929babaf3bad2f5289ea55bba2002b028f8c536ef914cd67"
+  - Transaction_#: 20
+    Transaction_Type: "U001"
+    Asset_Id: "099878"
+    User_Id: 10009
+    GMT_Submitted_Date: "2023-07-06T04:03:15.254Z"
+    Archival_Date: "06-07-2033"
+    Private_hash: ""
+    Public_hash: ""
+    Platform_hash: "72f4e7e1dfabd1a9f20cd2a385c1d34fc53e50782df06be24809bb7f391ff42e"
